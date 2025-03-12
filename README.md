@@ -158,9 +158,15 @@ Se você deseja contribuir para este projeto, siga os passos abaixo:
 
 Faça um fork deste repositório.
 Crie uma branch para sua feature:
+```bash
 git checkout -b feature/nova-funcionalidade
+```
 Realize commits com mensagens descritivas:
+```bash
 git commit -m 'Adiciona nova funcionalidade'
+```
 Envie sua branch para o repositório remoto:
+```bash
 git push origin feature/nova-funcionalidade
+```
 Abra um Pull Request para revisão.
